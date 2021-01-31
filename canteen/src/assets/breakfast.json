@@ -1,0 +1,145 @@
+[
+    {
+        "id":1,
+        "name": "Idly",
+        "price": 20,
+        "quantity": "2 per plate",
+        "image": "assets/images/download.jpg" 
+    },
+    {
+        "id":2,    
+        "name": "Plain Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":3,
+       "name": "Butter Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":4,
+      "name": "Masala Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":5,
+        "name": "Onion Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg" 
+    },
+    {
+        "id":6,
+        "name": "Paneer Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":7,
+        "name": "Rava Dosa",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":8,
+        "name": "Chapathi",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":9,
+        "name": "Butter Chapathi",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":10,
+        "name": "Vada",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":11,
+        "name": "Punugulu",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":12,
+        "name": "Mysore Bonda",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image":"assets/images/download.jpg"
+    },
+    {
+        "id":13,
+        "name": "Pongadalu",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":14,
+        "name": "Upma",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":15,
+        "name": "Poha",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":16,
+        "name": "Rava Kichidi",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":17,
+        "name": "Pongal",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":18,
+        "name": "Puri",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":19,
+        "name": "Pesarattu",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    },
+    {
+        "id":20,
+        "name": "Uttapam",
+        "price": 35,
+        "quantity": "1 per plate",
+        "image": "assets/images/download.jpg"
+    }
+    
+
+    
+]

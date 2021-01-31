@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "canteen"
+    }
+  },
+  "defaultProject": "canteen",
+  "cli": {
+    "analytics": "75bfc28c-01eb-41ed-b77b-539580db45d8"
+  }
 }
